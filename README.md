@@ -1,5 +1,11 @@
 # weather-app
-Mini react app pour un entretien  
+Mini react app pour un entretien 
+
+**Deploy :** https://alexandraskach.github.io/weather-app/
+
+![image](https://user-images.githubusercontent.com/57444049/123552545-f024fa00-d776-11eb-9376-4e0c8692c05f.png)
+![image](https://user-images.githubusercontent.com/57444049/123552602-2f534b00-d777-11eb-81bf-fc704e28e2d4.png)
+
 
 # API 
 https://openweathermap.org/
